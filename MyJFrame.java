@@ -1,4 +1,4 @@
-package gui_practice;
+//package gui_practice;
 import javax.swing.JFrame;
 
 public class MyJFrame extends JFrame {
